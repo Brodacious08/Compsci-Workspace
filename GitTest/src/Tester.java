@@ -5,6 +5,7 @@ public class Tester {
 		// TODO Auto-generated method stub
 		System.out.println("Love2code");
 		System.out.println("Line two");
+		System.out.println("line 3");
 
 	}
 
